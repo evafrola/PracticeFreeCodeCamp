@@ -1,4 +1,4 @@
-# PracticasDeFreeCodeCamp
+# PractInFreeCodeCamp
 
-Mi trabajo de FreeCodeCamp.
-Este repositorio no es para una aplicación sino más bien como un diario, donde mantengo un registro de todo lo que he hecho y aprendido de FreeCodeCamp. Mantengo el código tal cual como lo resolví en los ejercicios de FreeCodeCamp, no lo arregle o actualice con nuevas cosas aprendidas ya que el motivo del repositorio es un diario de aprendizaje. 
+My work in FreeCodeCamp.
+This repository is not for an app, but more like a diary, where I keep track of everything I've done and learned from FreeCodeCamp. I keep the code as I solved it in the FreeCodeCamp exercises, I don't fix it or update it with new things learned since the reason for the repository is a learning diary.
