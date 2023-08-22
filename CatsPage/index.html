@@ -40,5 +40,25 @@
                     <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
                 </figure>
     </section>
+
+    <section>
+        <h2>Cat Form</h2>
+            <form action="https://freecatphotoapp.com/submit-cat-photo">
+                <fieldset>
+                    <legend>Is you cat an indoor or outdoor cat?</legend>
+                        <label for="indoor"><input type="radio" id="indoor" name="indoor-outdoor" value="indoor" checked>Indoor</label>
+                        <label for="outdoor"><input type="radio" id="outdoor" name="indoor-outdoor" value="outdoor">Outdoor</label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>What's your cat's personality?</legend>
+                    <label for="loving"><input type="checkbox" id="loving" name="personality" value="loving" checked>Loving</label>
+                    <label for="lazy"><input type="checkbox" id="lazy" name="personality" value="lazy">Lazy</label>
+                    <label for="energetic"><input type="checkbox" id="energetic" name="personality" value="energetic">Energetic</label>
+                </fieldset>
+                    <input type="text" name="catpshotourl" placeholder="Cat photo URL" required>
+                        <button type="submit">Submit</button>
+            </form>
+    </section>
 </body>
 </html>
