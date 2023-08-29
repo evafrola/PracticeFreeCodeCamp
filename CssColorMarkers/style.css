@@ -13,21 +13,6 @@ h1 {
     margin: 10px auto;
 }
 
-.red {
-    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
-    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
-}
-
-.green {
-    background: linear-gradient(#55680D, #71F53E, #116C31);
-    box-shadow: 0 0 20PX 0 #3B7E20CC;
-}
-
-.blue {
-    background: linear-gradient(hsl(182, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
-    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
-}
-
 .sleeve {
     background-color: rgba(255, 255, 255, 0.5);
     width: 110px;
@@ -42,4 +27,19 @@ h1 {
 
 .cap, .sleeve {
     display: inline-block;
+}
+
+.red {
+    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+}
+
+.green {
+    background: linear-gradient(#55680D, #71F53E, #116C31);
+    box-shadow: 0 0 20PX 0 #3B7E20CC;
+}
+
+.blue {
+    background: linear-gradient(hsl(182, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
 }
