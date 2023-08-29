@@ -2,12 +2,25 @@ h1 {
     text-align: center;
 }
 
+.container {
+    background-color: rgb(0, 0, 0);
+    padding: 10px 0px;
+}
+
 .marker {
     height: 25px;
     width: 200px;
     margin: 10px auto;
 }
 
-.one {
-    background-color: red;
+.red {
+    background-color: #FF0000;
+}
+
+.green {
+    background-color: #00FF00;
+}
+
+.blue {
+    background-color: #0000FF;
 }
