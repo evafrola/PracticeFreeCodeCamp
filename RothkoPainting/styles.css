@@ -4,3 +4,11 @@
     padding: 50px;
     margin: 20px auto;
 }
+
+.canvas {
+    background-color: #4d0f00;
+    width: 500px;
+    height: 600px;
+    overflow: hidden;
+    filter: blur(2px);
+}
