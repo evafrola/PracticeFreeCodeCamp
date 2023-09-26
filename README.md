@@ -5,14 +5,14 @@ This repository is not for an app, but more like a diary, where I keep track of 
 
 To view the finished page, access the following links:
 
-CatsPage - <a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatsPage/" target="_blanck">CatsPage</a>
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatsPage/" target="_blank">CatsPage</a>
 
-CafeMenu - https://evafrola.github.io/PracticeFreeCodeCamp/CafeMenu/
+<a target="_blank" href="https://evafrola.github.io/PracticeFreeCodeCamp/CafeMenu/" >CafeMenu</a>
 
-CssColorMarkers - https://evafrola.github.io/PracticeFreeCodeCamp/CssColorMarkers/
+<a target="_blank" href="https://evafrola.github.io/PracticeFreeCodeCamp/CssColorMarkers/>CssColorMarkers"></a>
 
-RegistrationForm - https://evafrola.github.io/PracticeFreeCodeCamp/RegistrationForm/
+<a target="_blank" href="https://evafrola.github.io/PracticeFreeCodeCamp/RegistrationForm/">RegistrationForm</a>
 
-RothkoPainting - https://evafrola.github.io/PracticeFreeCodeCamp/RothkoPainting/
+<a target="_blank" href="https://evafrola.github.io/PracticeFreeCodeCamp/RothkoPainting/">RothkoPaiting</a>
 
-PhotoGallery - https://evafrola.github.io/PracticeFreeCodeCamp/PhotoGallery/ (New)
+<a target="_blank" href="https://evafrola.github.io/PracticeFreeCodeCamp/PhotoGallery/">PhotoGallery</a> (New)
