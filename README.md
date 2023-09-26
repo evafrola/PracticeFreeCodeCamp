@@ -5,7 +5,7 @@ This repository is not for an app, but more like a diary, where I keep track of 
 
 To view the finished page, access the following links:
 
-CatsPage - https://evafrola.github.io/PracticeFreeCodeCamp/CatsPage/
+CatsPage - <a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatsPage/" target="_blanck">CatsPage</a>
 
 CafeMenu - https://evafrola.github.io/PracticeFreeCodeCamp/CafeMenu/
 
