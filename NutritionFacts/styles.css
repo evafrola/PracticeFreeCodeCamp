@@ -10,14 +10,16 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1 {
+header h1 {
     text-align: center;
     margin: -4px 0;
     letter-spacing: 0.15px;
 }
 
 p {
+    display: flex;
     margin: 0;
+    justify-content: space-between;
 }
 
 .label{
@@ -34,4 +36,13 @@ p {
 
 .bold {
     font-weight: 800;
+}
+
+.large {
+    height: 10px;
+}
+
+.large, .medium {
+    background-color: black;
+    border: 0;
 }
