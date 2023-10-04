@@ -69,6 +69,10 @@ p {
     margin-left: 1em;
 }
 
+.double-indent {
+    margin-left: 2em;
+}
+
 .calories-info h2 {
     margin: 0;
 }
