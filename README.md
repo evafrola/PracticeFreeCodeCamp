@@ -16,4 +16,5 @@ To view the finished page, access the following links:
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/RothkoPainting/">RothkoPaiting</a>
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/PhotoGallery/">PhotoGallery</a>
+
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/NutritionFacts/">NutritionFacts</a> (New)
