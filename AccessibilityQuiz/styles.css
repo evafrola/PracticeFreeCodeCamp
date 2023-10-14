@@ -23,3 +23,8 @@ h1 {
     aspect-ratio: 35/4;
     padding: 0.4rem;
 }
+
+nav > ul {
+    display: flex;
+    justify-content: space-evenly;
+}
