@@ -19,4 +19,6 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/NutritionFacts/">NutritionFacts</a>
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/AccessibilityQuiz/">AccessibilityQuiz</a> (New)
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/AccessibilityQuiz/">AccessibilityQuiz</a>
+
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/BalanceSheet/"></a> (New)
