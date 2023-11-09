@@ -23,4 +23,6 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/BalanceSheet/">BalanceSheet</a> 
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatPainting/">CatPainting</a> (New)
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatPainting/">CatPainting</a> 
+
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Piano/">Piano</a> (New)
