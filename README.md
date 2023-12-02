@@ -9,7 +9,7 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/CafeMenu/" >CafeMenu</a>
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CssColorMarkers/>CssColorMarkers"></a>
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CssColorMarkers/>CssColorMarkers">CssColorMarkers</a>
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/RegistrationForm/">RegistrationForm</a>
 
@@ -25,4 +25,6 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/CatPainting/">CatPainting</a> 
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Piano/">Piano</a> (New)
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Piano/">Piano</a>
+
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CitySkyline/">CitySkiline</a> (New)
