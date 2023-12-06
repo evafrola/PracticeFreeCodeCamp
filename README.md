@@ -27,4 +27,6 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/Piano/">Piano</a>
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CitySkyline/">CitySkiline</a> (New)
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/CitySkyline/">CitySkiline</a>
+
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Magazine/">Magazine</a> (New)
