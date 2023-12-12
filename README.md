@@ -29,4 +29,6 @@ To view the finished page, access the following links:
 
 <a href="https://evafrola.github.io/PracticeFreeCodeCamp/CitySkyline/">CitySkiline</a>
 
-<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Magazine/">Magazine</a> (New)
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/Magazine/">Magazine</a>
+
+<a href="https://evafrola.github.io/PracticeFreeCodeCamp/FerrisWheel/">FerrisWheel</a> (New)
